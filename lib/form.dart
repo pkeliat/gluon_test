@@ -74,7 +74,6 @@ class _FormUsernameState extends State<FormUsername> {
                         ),
                       )
                     : Container(),
-
                 Positioned(
                   // bottom: 90,
                   top: 50,
@@ -158,14 +157,6 @@ class _FormUsernameState extends State<FormUsername> {
                         ),
                       )),
                 ),
-                // Positioned(
-                //   bottom: 30,
-                //   child: Container(
-                //     height: 20,
-                //     width: MediaQuery.of(context).size.width - 150,
-                //     color: Colors.red,
-                //   ),
-                // )
               ],
             ),
           ),
